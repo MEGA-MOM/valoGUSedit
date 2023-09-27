@@ -32,8 +32,16 @@ A tool to edit configurations easily and visually.
 
   There are no warnings from RiotGames, so it is not a problem at this time, but there are no guarantees. Use at your own risk.
 
+# Acknowledgem
+
+■ ini4j
+
+https://mvnrepository.com/artifact/org.ini4j/ini4j
+
 # Disclaimer
 THIS PROJECT IS NOT ASSOCIATED OR ENDORSED BY RIOT GAMES.  
+
+
 
 Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
 
