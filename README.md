@@ -1,4 +1,4 @@
-# Simple Valorant UserGameSetting Editor
+# Simple Valorant GameUserSetting Editor
 
 ![image](https://github.com/DebuDev7zip/valoGUSedit/assets/146192624/678df6fe-d645-486f-b18b-dce7c67a1e40)
 
