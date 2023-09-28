@@ -28,9 +28,14 @@ A tool to edit configurations easily and visually.
 
 # FAQ
 
-■ Is this tool safe?
+■ Can I be banned for using the tool?
 
   There are no warnings from RiotGames, so it is not a problem at this time, but there are no guarantees. Use at your own risk.
+
+■ Is this tool safe?
+
+No, this tool does not steal your information.
+The reason we don't release the source code is because we are embarrassed. Because it is very dirty.
 
 # Acknowledgem
 
