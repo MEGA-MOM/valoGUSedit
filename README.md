@@ -10,7 +10,7 @@ I am just a few days into learning coding. I created this tool for study purpose
 If you would like to help me, please give me suggestions for modifying or shortening the code, so I can learn.
 
 
-Download：  <a href="https://github.com/MEGA-MOM/valoGUSedit/releases/tag/ver 1.0.0">ver1.0.0</a>
+Download：  <a href="https://github.com/MEGA-MOM/valoGUSedit/releases/tag/ver1.0.0">ver1.0.0</a>
 
 
 # ■ Features
