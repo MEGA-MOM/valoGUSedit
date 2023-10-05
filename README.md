@@ -1,6 +1,6 @@
 # ■ Simple Valorant GameUserSetting Editor
 
-![image](https://github.com/MEGA-MOM/valoGUSedit/assets/146192624/102c7078-fb07-4881-9b2f-6fe19158bfe6)
+![image](https://imgur.com/FMWzVqZ.jpg)
 
 
 Exclusive for Valorant. A tool to edit configurations easily and visually.
