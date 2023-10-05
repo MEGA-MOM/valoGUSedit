@@ -8,6 +8,10 @@ I am just a few days into learning coding. I created this tool for study purpose
 
 If you would like to help me, please give me suggestions for modifying or shortening the code, so I can learn.
 
+
+Download： https://github.com/MEGA-MOM/valoGUSedit/releases/tag/ver1.0.0
+
+
 # ■ Features
 
 ・Set the config file manually 
